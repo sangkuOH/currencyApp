@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": "master",
+          "revision": "ac892dd077c9f8489e793282b827ae5ca4298cae",
+          "version": null
+        }
+      },
+      {
+        "package": "AlamofireNetworkActivityLogger",
+        "repositoryURL": "https://github.com/konkab/AlamofireNetworkActivityLogger",
+        "state": {
+          "branch": "master",
+          "revision": "8db9d4e27176905298e7215e3d800e349cdfa30b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
